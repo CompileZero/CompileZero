@@ -4,10 +4,9 @@
 
 <p align="center">
 
-![Hello](bdg_des_2.svg)
+![Hello](bdg_des_2.png)
 
 </p>
-
 
 Here are some ideas to get you started:
 
