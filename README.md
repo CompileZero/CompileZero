@@ -1,8 +1,8 @@
 ## I am Atharva.
 
-![Hello](https://github.com/CompileZero/CompileZero/blob/master/eui.png)
-![Hello](https://github.com/CompileZero/CompileZero/blob/master/fe.png)
-![Hello](https://github.com/CompileZero/CompileZero/blob/master/ps.png)
+![Hello](https://github.com/CompileZero/CompileZero/blob/master/eui.svg)
+![Hello](https://github.com/CompileZero/CompileZero/blob/master/fe.svg)
+![Hello](https://github.com/CompileZero/CompileZero/blob/master/ps.svg)
 
 > Here are some ideas to get you started:
 
