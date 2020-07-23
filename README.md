@@ -4,7 +4,7 @@
 ![Hello](https://github.com/CompileZero/CompileZero/blob/master/fe.svg)
 ![Hello](https://github.com/CompileZero/CompileZero/blob/master/ps.svg)
 
-> Here are some ideas to get you started:
+## _Check out my amazing work at [atharvak.ml](https://atharvak.ml)_
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
