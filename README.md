@@ -4,10 +4,10 @@
 
 <p align="center">
 
-![Hello](badge_design.svg)
+![Hello](bdg_des_2.svg)
 
 </p>
- 
+
 
 Here are some ideas to get you started:
 
@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
