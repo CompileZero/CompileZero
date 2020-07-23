@@ -2,7 +2,9 @@
 
 **CompileZero/CompileZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Hello](https://github.com/CompileZero/CompileZero/blob/master/bdg_des_2.png)
+![Hello](https://github.com/CompileZero/CompileZero/blob/master/eui.png)
+![Hello](https://github.com/CompileZero/CompileZero/blob/master/fe.png)
+![Hello](https://github.com/CompileZero/CompileZero/blob/master/ps.png)
 
 Here are some ideas to get you started:
 
