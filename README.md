@@ -6,7 +6,7 @@
 
 ## _Check out my amazing work at [atharvak.ml](https://atharvak.ml)_
 
-- 🔭 I’m currently working on [CompileZero](https://compilezero.com), my blog
+- 🔭 I’m currently working on [CompileZero](https://compilezero.net), my blog
 - 🌱 I’m currently learning ReactJS
 - 💬 Ask me about The future of Web Technologies
 - 📫 How to reach me: atharvaak66@gmail.com
